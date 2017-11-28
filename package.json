@@ -1,0 +1,27 @@
+{
+  "name": "org.apache.cordova.plugin.TTS",
+  "description": "Cordova TTS Plugin",
+  "version": "0.2.1",
+  "homepage": "https://github.com/domaemon/org.apache.cordova.plugin.tts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/domaemon/org.apache.cordova.plugin.tts"
+  },
+  "bugs": {
+    "url": "https://github.com/domaemon/org.apache.cordova.plugin.tts/issues"
+  },
+  "cordova": {
+    "id": "org.apache.cordova.plugin.TTS",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "macdonst",
+  "license": "Apache 2.0"
+}
